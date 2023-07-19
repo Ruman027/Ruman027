@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ruman027
+- 👀 I’m interested in programming,game development especially.
+- 🌱 I’m currently learning frontend languages and cpp.
+- 💞️ I’m looking to collaborate on frontend projects for websites.
+- 📫 Reach me via email i.e rumanfarooq3334444@gmail.com
